@@ -1,9 +1,10 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import { Playfair  } from 'next/font/google'
 import './globals.css'
 import Navbar from '../ui/navbar/Navbar'
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Playfair({ subsets: ['latin'] ,
+weight: '400' })
 
 export const metadata: Metadata = {
   title: 'Create Next App',
