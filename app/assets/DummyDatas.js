@@ -15,3 +15,69 @@ export const categories=[
     title:"Womens shirt"
 },
 ]
+
+export const products=[
+{
+    id: 1,
+    productname: "Cap",
+    desc: "Very nice awdjasjdk kas kjnasjn kjas b ajsb asb hakjsnij c",
+    img: "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    category: ["men", "accessories", "cap"],
+    color: "white",
+    size: ["S", "M", "L"],
+    price: 35,
+},
+{
+    id: 2,
+    productname: "Womens Dress",
+    desc: "Very nice awdjasjdk kas kjnasjn kjas b ajsb asb hakjsnij c",
+    img:"https://images.unsplash.com/photo-1595777457583-95e059d581b8?q=80&w=1983&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    category: ["men", "accessories", "cap"],
+    color: "red",
+    size: ["S", "M", "L"],
+    price: 89,
+},
+{
+    id: 3,
+    productname: "Cap",
+    desc: "Very nice awdjasjdk kas kjnasjn kjas b ajsb asb hakjsnij c",
+    img: "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    category: ["men", "accessories", "cap"],
+    color: "white",
+    size: ["S", "M", "L"],
+    price: 35,
+},
+{
+    id: 4,
+    productname: "Cap",
+    desc: "Very nice awdjasjdk kas kjnasjn kjas b ajsb asb hakjsnij c",
+    img: "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    category: ["men", "accessories", "cap"],
+    color: "white",
+    size: ["S", "M", "L"],
+    price: 35,
+},
+{
+    id: 5,
+    productname: "Cap",
+    desc: "Very nice awdjasjdk kas kjnasjn kjas b ajsb asb hakjsnij c",
+    img: "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    category: ["men", "accessories", "cap"],
+    color: "white",
+    size: ["S", "M", "L"],
+    price: 35,
+},
+{
+    id: 6,
+    productname: "Cap",
+    desc: "Very nice awdjasjdk kas kjnasjn kjas b ajsb asb hakjsnij c",
+    img: "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    category: ["men", "accessories", "cap"],
+    color: "white",
+    size: ["S", "M", "L"],
+    price: 35,
+},
+
+
+
+]

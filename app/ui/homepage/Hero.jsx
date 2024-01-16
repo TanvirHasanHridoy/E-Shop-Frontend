@@ -6,11 +6,11 @@ import InitialProducts from "./InitialProducts";
 
 const Hero = () => {
   return (
-    <div>
+    <div className="w-full overflow-x-hidden">
       <Banner />
       <Offer />
-      {/* <InitialProducts /> */}
       <Categories />
+      <InitialProducts />
     </div>
   );
 };

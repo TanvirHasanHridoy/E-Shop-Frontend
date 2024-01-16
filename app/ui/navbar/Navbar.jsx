@@ -2,7 +2,7 @@ import React from "react";
 import { BsCart3, BsSearch } from "react-icons/bs";
 const Navbar = () => {
   return (
-    <div className="w-screen h-[70px]  p-4 overflow-hidden mb-4">
+    <div className="w-full h-[70px]  p-4 overflow-hidden mb-4">
       <div className="flex w-full m-auto    justify-between text-xl ">
         <div className="flex-[1]  font-bold text-4xl   text-center flex justify-center items-center relative">
           <input
